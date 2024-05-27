@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Noticias League of legends</title>
+    <link>https://github.com/franxu72/Practica-RSS</link>
+    <description>Últimas noticias sobre League of legends.</description>
+    <category>Videojuegos</category>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 23 Feb 2024 12:00:00 GMT</lastBuildDate>
+    <managingEditor>a23rasafr@iesgrancapitan.org(Francisco Ramos Santos)</managingEditor>
+    <image>
+      <title>League of legends</title>
+      <link>https://github.com/franxu72/Practica-RSS</link>
+    </image>
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+        <title>Pagina de noticias de Francisco Ramos Santos</title>
+        <link>https://www.leagueoflegends.com/es-es/</link>
+        <description>Este RSS es una pagina en la cual conpartire la historia del Lol(League of Legends) y explicare un poco la trajectoria de cada jugador del que hable</description>
+        <author>a23rasafr@iesgrancapitan.org(Francisco Ramos Santos)</author>
+        <pubDate>Fri, 23 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Los Samurais del Norte se coranan Campeones de la LEC</title>
+        <link>https://www.elplural.com/esports/lol/g2-esports-proclama-campeon-lec_324936102</link>
+        <description>El domingo 18 de febrero de 2024 El gran equipo veterano de G2 se proclamaria Campeon del split de invierno tras derrotar al equipo conformado por principiantes que eran MadLions KOI, los cuales no pudieron hacer frente a los Samurais perdiendo por 3-1 en mapas y G2 alzandose como campeon</description>
+        <author>a23rasafr@iesgrancapitan.org(Francisco Ramos Santos)</author>
+        <pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate>
+    </item>
+     <item>
+        <title>El fracaso de Karmine corp en la Competicion europea</title>
+        <link>https://esports.as.com/league-of-legends/lcs-eu-2141/Primer-LEC-Karmine-Corp-entrenador_0_1763823607.html</link>
+        <description>Karmine Corp, equipo frances que debuto este mismo año en la LEC(Competicion Europea de league-of-legends) tras acabar este split se han topado con la dura derrota quedando ultimos y con solo dos partidos ganados de diez, siendo este uno de los peores resultados que sean registrado en la competicion.</description>
+        <author>a23rasafr@iesgrancapitan.org(Francisco Ramos Santos)</author>
+        <pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate>
+    </item>
+     <item>
+        <title>Cambio de Soportes, Trymbi sustituye a kaiser en Heretics</title>
+        <link>https://esports.as.com/league-of-legends/lcs-eu-2141/Cambios-Team-Heretics-LEC-Madrileno_0_1766523332.html</link>
+        <description>Tras este split de invierno heretics, no se ha visto muy comodo que digamos, con resultado de split medio decente pero una eliminacion casi inmediata de playoffs heretics propone este cambio. Y este cambio es Trymbi(ExSupport de fnatic) quien viene a reforzar la botlane ya que piensan que es una de las facetas que al equipo español les hace falta mejorar.</description>
+        <author>a23rasafr@iesgrancapitan.org(Francisco Ramos Santos)</author>
+        <pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
